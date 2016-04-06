@@ -1,0 +1,14 @@
+layout_spectrum: 0.8882915
+color:
+  saturation: 0.6087216
+  lightness: 0.7667785
+  brandStrength: 0.5477897
+  brandColors:
+    - '#17171E'
+    - '#CED0D0'
+    - '#C6B56E'
+    - '#FCFCFC'
+    - '#6E787E'
+  rhythmicContrast: 0.5585424
+typography_spectrum: 0.3315412
+name: Karatlove
