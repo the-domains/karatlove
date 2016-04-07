@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Karatlove]]></title>
         <description><![CDATA[Karatlove]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/karatlove/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 07 Apr 2016 02:21:21 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 07 Apr 2016 02:25:11 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/karatlove/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d6f79f96-74d8-415c-8eff-e3070aa5ef9d.jpg">]]></description>
-            <link>undefined040c00cd-3f99-42b5-ab15-6ec49a10ac39/index.html</link>
+            <link>https://thegrid.ai/karatlove/040c00cd-3f99-42b5-ab15-6ec49a10ac39/index.html</link>
             <guid isPermaLink="false">040c00cd-3f99-42b5-ab15-6ec49a10ac39</guid>
-            <pubDate>Thu, 07 Apr 2016 02:21:13 GMT</pubDate>
+            <pubDate>Thu, 07 Apr 2016 02:25:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
